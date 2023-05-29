@@ -1,0 +1,93 @@
+{
+    "veiculos": [
+        {
+            "id": 1,
+            "nome": "Veículo 1",
+            "km": 193000,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "modelo": "Freemont",
+            "cor": "Cinza",
+            "placa": "XXXX-XDDD",
+            "portas": 5,
+            "id_marca": 1,
+            "id_categoria": 1,
+            "imagens": [
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/1_E6k7WSD.png",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/2_ZZSCXPL.jpg",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/4_5mFooRW.png"
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Veículo 2",
+            "km": 193000,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "modelo": "Freemont",
+            "cor": "Cinza",
+            "placa": "XXXX-XDDD",
+            "portas": 5,
+            "id_marca": 1,
+            "id_categoria": 1,
+            "imagens": [
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/1_E6k7WSD.png",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/2_ZZSCXPL.jpg",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/4_5mFooRW.png"
+            ]
+        },
+        {
+            "id": 3,
+            "nome": "Veículo 3",
+            "km": 193000,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "modelo": "Freemont",
+            "cor": "Cinza",
+            "placa": "XXXX-XDDD",
+            "portas": 5,
+            "id_marca": 1,
+            "id_categoria": 1,
+            "imagens": [
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/1_E6k7WSD.png",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/2_ZZSCXPL.jpg",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/4_5mFooRW.png"
+            ]
+        }
+    ],
+
+    "categoria": [
+        {
+            "id": 1,
+            "nome": "SUV",
+            "id_tipo_veiculo": 1
+        },
+        {
+            "id": 2,
+            "nome": "Esportiva",
+            "id_tipo_veiculo": 2
+        }
+    ],
+
+    "tipo_veiculo": [
+        {
+            "id": 1,
+            "nome": "Carro"
+        },
+        {
+            "id": 2,
+            "nome": "Moto"
+        }
+    ],
+
+    "fabricantes": [
+        {
+            "id": 1,
+            "nome": "Fiat"
+        },
+        {
+            "id": 2,
+            "nome": "Honda"
+        }
+    ]
+}
