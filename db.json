@@ -53,6 +53,168 @@
                 "https://carshopdjango.up.railway.app/media/fotos_veiculos/2_ZZSCXPL.jpg",
                 "https://carshopdjango.up.railway.app/media/fotos_veiculos/4_5mFooRW.png"
             ]
+        },
+        {
+            "id": 4,
+            "nome": "Veículo 4",
+            "km": 193000,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "modelo": "Freemont",
+            "cor": "Cinza",
+            "placa": "XXXX-XDDD",
+            "portas": 5,
+            "id_marca": 1,
+            "id_categoria": 1,
+            "imagens": [
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/1_E6k7WSD.png",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/2_ZZSCXPL.jpg",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/4_5mFooRW.png"
+            ]
+        },
+        {
+            "id": 5,
+            "nome": "Veículo 5",
+            "km": 193000,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "modelo": "Freemont",
+            "cor": "Cinza",
+            "placa": "XXXX-XDDD",
+            "portas": 5,
+            "id_marca": 1,
+            "id_categoria": 1,
+            "imagens": [
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/1_E6k7WSD.png",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/2_ZZSCXPL.jpg",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/4_5mFooRW.png"
+            ]
+        },
+        {
+            "id": 6,
+            "nome": "Veículo 6",
+            "km": 193000,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "modelo": "Freemont",
+            "cor": "Cinza",
+            "placa": "XXXX-XDDD",
+            "portas": 5,
+            "id_marca": 1,
+            "id_categoria": 1,
+            "imagens": [
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/1_E6k7WSD.png",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/2_ZZSCXPL.jpg",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/4_5mFooRW.png"
+            ]
+        },
+        {
+            "id": 7,
+            "nome": "Veículo 7",
+            "km": 193000,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "modelo": "Freemont",
+            "cor": "Cinza",
+            "placa": "XXXX-XDDD",
+            "portas": 5,
+            "id_marca": 1,
+            "id_categoria": 1,
+            "imagens": [
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/1_E6k7WSD.png",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/2_ZZSCXPL.jpg",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/4_5mFooRW.png"
+            ]
+        },
+        {
+            "id": 8,
+            "nome": "Veículo 8",
+            "km": 193000,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "modelo": "Freemont",
+            "cor": "Cinza",
+            "placa": "XXXX-XDDD",
+            "portas": 5,
+            "id_marca": 1,
+            "id_categoria": 1,
+            "imagens": [
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/1_E6k7WSD.png",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/2_ZZSCXPL.jpg",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/4_5mFooRW.png"
+            ]
+        },
+        {
+            "id": 9,
+            "nome": "Veículo 9",
+            "km": 193000,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "modelo": "Freemont",
+            "cor": "Cinza",
+            "placa": "XXXX-XDDD",
+            "portas": 5,
+            "id_marca": 1,
+            "id_categoria": 1,
+            "imagens": [
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/1_E6k7WSD.png",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/2_ZZSCXPL.jpg",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/4_5mFooRW.png"
+            ]
+        },
+        {
+            "id": 10,
+            "nome": "Veículo 10",
+            "km": 193000,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "modelo": "Freemont",
+            "cor": "Cinza",
+            "placa": "XXXX-XDDD",
+            "portas": 5,
+            "id_marca": 1,
+            "id_categoria": 1,
+            "imagens": [
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/1_E6k7WSD.png",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/2_ZZSCXPL.jpg",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/4_5mFooRW.png"
+            ]
+        },
+        {
+            "id": 11,
+            "nome": "Veículo 11",
+            "km": 193000,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "modelo": "Freemont",
+            "cor": "Cinza",
+            "placa": "XXXX-XDDD",
+            "portas": 5,
+            "id_marca": 1,
+            "id_categoria": 1,
+            "imagens": [
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/1_E6k7WSD.png",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/2_ZZSCXPL.jpg",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/4_5mFooRW.png"
+            ]
+        },
+        {
+            "id": 12,
+            "nome": "Veículo 12",
+            "km": 193000,
+            "combustivel": "Gasolina",
+            "cambio": "Manual",
+            "modelo": "Freemont",
+            "cor": "Cinza",
+            "placa": "XXXX-XDDD",
+            "portas": 5,
+            "id_marca": 1,
+            "id_categoria": 1,
+            "imagens": [
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/1_E6k7WSD.png",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/2_ZZSCXPL.jpg",
+                "https://carshopdjango.up.railway.app/media/fotos_veiculos/4_5mFooRW.png"
+            ]
         }
     ],
 
